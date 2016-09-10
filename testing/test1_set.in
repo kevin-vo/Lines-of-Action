@@ -1,0 +1,20 @@
+# Check that setting pieces work with several moves.  The AI is never started.
+java -ea loa.Main
+None
+===#1===
+manual white
+start
+dump
+b1-b3
+dump
+set b1 b
+dump
+start
+h3-e3
+dump
+set e4 w
+dump
+start
+e8-e4
+dump
+quit

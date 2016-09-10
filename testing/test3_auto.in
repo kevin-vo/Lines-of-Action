@@ -1,0 +1,8 @@
+# Check that an automatic game works. The AI is started.
+staff-loa
+None
+===#1===
+auto black
+start
+%bw
+%e

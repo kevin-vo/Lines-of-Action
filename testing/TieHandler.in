@@ -1,0 +1,24 @@
+# Tests whether a tie is handled correctly.
+java -ea loa.Main
+None
+===#1===
+manual white
+set a6 e
+set b1 e
+set b4 w
+set c4 w
+set d4 w
+set e5 w
+set f5 w
+set g5 w
+set a1 b
+set e2 b
+set e3 b
+set e4 b
+set d5 b
+set d6 b
+set d7 b
+start
+a7-a1
+%ew
+
